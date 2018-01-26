@@ -2,12 +2,13 @@ h1 {text-align:center}
 .redtext {
     color: red;
 }
+a.Portfolio {float:right}
+
 a.Contact {float:right}
 
 a.About {float:right}
-.redtext {
-    color: red;
-}
+
+
 
 
 
