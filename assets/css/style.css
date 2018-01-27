@@ -1,12 +1,34 @@
-h1 {text-align:center}
-.redtext {
-    color: red;
+h1 {
+    text-align:center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
-a.Portfolio {float:right}
+h3{
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+button {
+    background-color:#4aaaa5
 
-a.Contact {float:right}
+}
+.Portfolio {
+    color: lightgray;
+    float:right;}
 
-a.About {float:right}
+.Contact {
+    color: lightgray;
+    float:right;}
+
+.About {
+    font-size 20;
+    color: lightgray;
+    float:right;}
+
 
 
 
