@@ -2,6 +2,8 @@ body {
     background-image:url("D:/sbedn/bootc/homework/Basic-Portfolio/assets/images/vintage-concrete.png");
 }
 h1 {
+    height:100px;
+    width:400px;
     text-align:center;
     background-color: #4aaaa5;
     color: white;
@@ -16,22 +18,27 @@ h3{
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 button {
-    background-color:#4aaaa5
-
+    background-color:#4aaaa5;
+    color:white;
 }
-.Portfolio {
-    color: lightgray;
-    float:right;}
-
-.Contact {
-    color: lightgray;
-    float:right;}
-
-.About {
-    font-size 20;
-    color: lightgray;
-    float:right;}
-
+.links{
+    float:right;
+    border: 10px solid green;
+}
+.icons{
+    width:270px;    
+    float:right;
+    background-color: white;
+}
+.main{
+    height: 660px;
+    width: 650px;
+    border: 10px solid green ;
+    background-color:white;
+}
+.copyright{
+    float:bottom;
+}
 
 
 
