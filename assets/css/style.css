@@ -32,7 +32,7 @@ td {
     
 }
 
-Li{
+li{
     display:inline;
     margin-right:8%;
     float:right;
@@ -51,6 +51,7 @@ Li{
     overflow:visible;
     align-items: center;
 }
+
 .text{
     position:relative;
     width:20px;
@@ -61,7 +62,6 @@ Li{
     float:center;
     overflow: visible;
 }
-
 
 body {
     background-image:url("D:/sbedn/bootc/homework/Basic-Portfolio/assets/images/whitewall.png");
@@ -84,6 +84,7 @@ header {
     overflow:hidden;
 
 }
+
 nav{
     position:fixed;
     top:0;
@@ -92,7 +93,6 @@ nav{
     background-color: white;
     z-index:1;
     border-bottom: 1px solid #cccccc;
-    overflow:hidden;
 }
 
 article{
@@ -104,10 +104,11 @@ article{
     display: left;
     background-color:white;
     float:left;
-    clear: both;
     text-align: left;
+    line-height: 20pt;
     border: 1px solid #777777;
     color: #777777;
+    clear:both;
    
 }
 
@@ -126,7 +127,6 @@ aside{
     border: 1px solid #777777;
 }
 
-
 footer{
     border-top-color: #9fe7e4;
     border-top-width:10px;
@@ -139,8 +139,6 @@ footer{
     color: white;
     font-size: 12pt;
     text-align: center;
-    border-top: 10px solid #4aaaa5;
-    
-    
+    border-top: 10px solid #4aaaa5;        
 }
 
